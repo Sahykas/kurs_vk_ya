@@ -1,0 +1,4 @@
+vk_api==11.9.9
+requests==2.31.0
+logging==0.4.9.6
+configparser==6.0.0
